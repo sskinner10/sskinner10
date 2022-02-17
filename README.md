@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sskinner10
-- 👀 I’m interested soccer, skiing, and learing software development
+- 👀 I’m interested soccer, skiing, cooking, and learing software development
 - 🌱 I’m currently learning JS, HTML, CSS, and will soon be conquering the MERN stack
 - 💞️ I’m looking to collaborate on everything!
 - 📫 How to reach me samskinner27@gmail.com
